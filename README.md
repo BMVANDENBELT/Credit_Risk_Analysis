@@ -15,7 +15,7 @@
 
 <img width="351" alt="Screen Shot 2022-10-16 at 5 08 50 PM" src="https://user-images.githubusercontent.com/107223178/196058414-ea0d461c-f60f-45ca-a4c7-d81dc2e15d02.png">
 <img width="707" alt="Screen Shot 2022-10-16 at 5 09 04 PM" src="https://user-images.githubusercontent.com/107223178/196058422-be29b8a5-b6a9-4605-b6f8-5a3ef75f068d.png">
-- (Above) The accuracy for the SMOTE sampling model was 66%
+ - (Above) The accuracy for the SMOTE sampling model was 66%
 
 <img width="348" alt="Screen Shot 2022-10-16 at 5 11 26 PM" src="https://user-images.githubusercontent.com/107223178/196058510-2a9032f7-678b-4b7b-bf48-4a824cbb2d93.png">
 <img width="704" alt="Screen Shot 2022-10-16 at 5 13 05 PM" src="https://user-images.githubusercontent.com/107223178/196058579-f86bc500-09b4-4611-8632-fe58364712e3.png">
